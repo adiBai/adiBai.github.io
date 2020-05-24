@@ -1,9 +1,0 @@
-.DS_Store
-Thumbs.db
-debug.log
-node_modules/
-__MACOSX/
-.deploy/
-_SYNCAPP
-metadata.xml
-*.log
